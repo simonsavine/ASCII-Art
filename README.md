@@ -1,7 +1,7 @@
 # ASCII-Art
 
 !JPG and PNG files only!
-A fun colab project in which you upload any file (files.upload()):
+A fun colab project in which you upload any file:
 
 <img width="453" height="43" alt="image" src="https://github.com/user-attachments/assets/c5ea9694-3362-47b0-8f4c-34e1c18448ad" />
 
